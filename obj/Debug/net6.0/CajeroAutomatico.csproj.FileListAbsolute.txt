@@ -1,0 +1,15 @@
+C:\laragon\csharp\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.exe
+C:\laragon\csharp\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.deps.json
+C:\laragon\csharp\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.runtimeconfig.json
+C:\laragon\csharp\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.dll
+C:\laragon\csharp\CajeroAutomatico\bin\Debug\net6.0\ref\CajeroAutomatico.dll
+C:\laragon\csharp\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.pdb
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.AssemblyInfo.cs
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.dll
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\ref\CajeroAutomatico.dll
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.pdb
+C:\laragon\csharp\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.genruntimeconfig.cache
